@@ -2,7 +2,7 @@
 
 An interactive, single-file web app that explains how nine different electricity sources — Wind, Solar, Hydro, Geothermal, Tidal, Biomass, Fossil Fuels, and Nuclear — actually get from raw resource to a home's outlet, using Nova Scotia's real grid as the running example.
 
-**[Live demo →](https://tmugomba.github.io/renewable-grid-explorer/)**
+**[Live demo →](https://tmugomba.github.io/renewable-grid-explorer/)**https://tmugomba.github.io/renewable-grid-explorer/
 
 ## Why I built this
 
